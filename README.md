@@ -1,4 +1,4 @@
-# Banco-de-Dados---Portal-do-Professor
+# Banco de Dados Portal do Professor
 
 Integrantes do grupo:
 Eric José Vieira Ruas - RA: 2406501
